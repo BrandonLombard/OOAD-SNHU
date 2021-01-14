@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T23:36:05.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9u5LXBDKHiTMNCR4c1td" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T23:41:49.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Y-6M0ofSb0nQ1J08rl0U" version="14.1.8" type="github">
   <diagram id="ww5f84e6MGx6yijLNMb9" name="Page-1">
     <mxGraphModel dx="1091" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -328,6 +328,13 @@
         <mxCell id="B8DDg9iWWgw_p-ArfUbX-112" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8DDg9iWWgw_p-ArfUbX-115" target="B8DDg9iWWgw_p-ArfUbX-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B8DDg9iWWgw_p-ArfUbX-115" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="90" height="60" as="geometry" />
         </mxCell>
@@ -346,7 +353,7 @@
         <mxCell id="B8DDg9iWWgw_p-ArfUbX-125" value="Mobile App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="447.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B8DDg9iWWgw_p-ArfUbX-127" value="&amp;lt;&amp;lt;exclude&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-127" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="720" y="397.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B8DDg9iWWgw_p-ArfUbX-131" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -355,8 +362,23 @@
         <mxCell id="B8DDg9iWWgw_p-ArfUbX-132" value="Mobile App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B8DDg9iWWgw_p-ArfUbX-133" value="&amp;lt;&amp;lt;exclude&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-133" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="90" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-138" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="470" y="377.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-139" value="No duplications, GPA Verification, Hardware Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="405" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="500" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B8DDg9iWWgw_p-ArfUbX-144" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
