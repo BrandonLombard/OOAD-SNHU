@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T04:19:57.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cgCx__imnmNLfgX0xRjy" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T04:25:59.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="AIjG89uLmPna7QJart7a" version="14.2.3" type="github">
   <diagram id="8vs-kHtqtg8oLNfutw9K" name="Page-1">
     <mxGraphModel dx="564" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Is64VMlIJqgsroUcS939-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="90" width="600" height="610" as="geometry" />
+          <mxGeometry x="90" y="90" width="600" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Is64VMlIJqgsroUcS939-1" target="Is64VMlIJqgsroUcS939-3">
           <mxGeometry relative="1" as="geometry" />
@@ -312,6 +312,24 @@
             <mxPoint x="589.2" y="589" as="sourcePoint" />
             <mxPoint x="660" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="625" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-121" value="Ensure no class duplications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="640" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="625" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-123" value="Online: Hardware and software requirements met" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="655" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="625" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-125" value="GPA requirement met" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="640" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
