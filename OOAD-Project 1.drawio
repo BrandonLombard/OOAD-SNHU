@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T04:00:42.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="8L11LvjD9S28aU4CEBal" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T04:03:01.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="HJE7--XxLBkQIT4tLtx8" version="14.2.3" type="github">
   <diagram id="8vs-kHtqtg8oLNfutw9K" name="Page-1">
     <mxGraphModel dx="564" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,8 +205,8 @@
         <mxCell id="Is64VMlIJqgsroUcS939-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="425" width="80" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-71" value="Course Name, description, ID, credit hours, prerequisite course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="367" y="462.5" width="80" height="20" as="geometry" />
+        <mxCell id="Is64VMlIJqgsroUcS939-71" value="Student&#39;s first and last name, middle initials, DOB, ID, GPA, Department" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="462.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-72" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="Is64VMlIJqgsroUcS939-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
