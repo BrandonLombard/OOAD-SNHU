@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T03:58:29.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="fyTNPGWrpaCApSeLz0LJ" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T04:00:42.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="8L11LvjD9S28aU4CEBal" version="14.2.3" type="github">
   <diagram id="8vs-kHtqtg8oLNfutw9K" name="Page-1">
     <mxGraphModel dx="564" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,19 +118,19 @@
         <mxCell id="Is64VMlIJqgsroUcS939-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-44" value="Maintain Records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="355" width="40" height="15" as="geometry" />
+        <mxCell id="Is64VMlIJqgsroUcS939-44" value="Maintain Class Records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="340" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-46" value="Maintain Records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Is64VMlIJqgsroUcS939-46" value="Maintain Student Records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="355" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-48" value="Maintain Records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Is64VMlIJqgsroUcS939-48" value="Maintain Course Records" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="355" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-51" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Is64VMlIJqgsroUcS939-41" target="Is64VMlIJqgsroUcS939-33">
@@ -191,10 +191,40 @@
           <mxGeometry x="220" y="540" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="412.5" width="80" height="95" as="geometry" />
+          <mxGeometry x="270" y="425" width="80" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-66" value="Course Name, description, ID, credit hours, prerequisite course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="272" y="450" width="80" height="20" as="geometry" />
+          <mxGeometry x="272" y="462.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-69" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Is64VMlIJqgsroUcS939-47" target="Is64VMlIJqgsroUcS939-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="430" as="sourcePoint" />
+            <mxPoint x="280" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="425" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-71" value="Course Name, description, ID, credit hours, prerequisite course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367" y="462.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-72" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="Is64VMlIJqgsroUcS939-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="390" as="sourcePoint" />
+            <mxPoint x="375" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="425" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-74" value="Course Name, description, ID, credit hours, prerequisite course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="461" y="462.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-75" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="Is64VMlIJqgsroUcS939-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="390" as="sourcePoint" />
+            <mxPoint x="469" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
