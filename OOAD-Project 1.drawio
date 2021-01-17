@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T04:03:01.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="HJE7--XxLBkQIT4tLtx8" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T04:04:41.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IzGCWefQejqq9hcJdj3G" version="14.2.3" type="github">
   <diagram id="8vs-kHtqtg8oLNfutw9K" name="Page-1">
     <mxGraphModel dx="564" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Is64VMlIJqgsroUcS939-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="90" width="530" height="500" as="geometry" />
+          <mxGeometry x="90" y="90" width="540" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Is64VMlIJqgsroUcS939-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Is64VMlIJqgsroUcS939-1" target="Is64VMlIJqgsroUcS939-3">
           <mxGeometry relative="1" as="geometry" />
@@ -214,17 +214,17 @@
             <mxPoint x="375" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="425" width="80" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-74" value="Course Name, description, ID, credit hours, prerequisite course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="461" y="462.5" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Is64VMlIJqgsroUcS939-75" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="Is64VMlIJqgsroUcS939-73">
+        <mxCell id="Is64VMlIJqgsroUcS939-75" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="499" y="390" as="sourcePoint" />
-            <mxPoint x="469" y="380" as="targetPoint" />
+            <mxPoint x="499" y="425" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-77" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="292" y="394" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Is64VMlIJqgsroUcS939-79" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="386" y="394" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
